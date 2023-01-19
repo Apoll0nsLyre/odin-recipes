@@ -1,7 +1,7 @@
 h1 {
     background-color: red;
     color: white;
-    font-family: Lucida 'Courier New', Courier, monospace;
+    font-family: 'Lucida console', 'Courier New' , monospace;
 }
 p {
     background-color: green;
