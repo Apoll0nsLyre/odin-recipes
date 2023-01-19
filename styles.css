@@ -2,7 +2,7 @@ h1 {
     background-color: red;
     color: white;
 }
-p {
+.p {
     background-color: green;
     color:black;
     font-family: "Lucida Console", "Courier New", monospace;
